@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Current plans:
-Planning to make a portfolio website to showcase all the projects that I've done since most of them are just on my laptop.
-I'm currently working on developing a mobile app for my friend's dad - it is a golf point/betting system with potential to scale to other games.
+
+- Planning to make a portfolio website to showcase all the projects that I've done since most of them are just on my laptop.
+- I'm currently working on developing a mobile app for my friend's dad - it is a golf point/betting system with potential to scale to other games.
