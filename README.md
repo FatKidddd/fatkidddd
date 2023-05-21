@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Current plans:
-
-- Planning to make a portfolio website to showcase all the projects that I've done since most of them are just on my laptop.
-- Work on the UI for visualizer repo and add more interactive algorithms.
-- Other random projects
